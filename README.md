@@ -1,5 +1,5 @@
 # card-deck-api
-A version of a popular online cardgame made very poorly. ReadMe commit 2 to populate widget. <br>
+A version of a popular online cardgame made very poorly. ReadMe commit 3 to populate widget. <br>
 Personal Notes (so i can remember how to do stuff)  <br>
   <br>
 All changes to the app can be made with: 
